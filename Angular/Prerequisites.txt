@@ -1,0 +1,5 @@
+Install the node-JS: https://nodejs.org/en/
+
+run the below commond
+---------------------- 
+npm install -g @angular/cli
